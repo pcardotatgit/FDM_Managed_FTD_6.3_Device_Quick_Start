@@ -1,0 +1,7 @@
+---
+devices:
+  - hostname: FDM_DEVICE
+    ipaddr:   192.168.20.12
+    port: 443
+    username: admin
+    password: cisco
