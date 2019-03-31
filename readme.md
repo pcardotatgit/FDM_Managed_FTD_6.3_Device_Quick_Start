@@ -1,4 +1,4 @@
-# FDM_6.3_quick_start
+# FDM_6.3_quick_start.
 
 The goal of this project it to give some ready to use scripts for basic interactions with FDM managed FTD version 6.3 device
 
@@ -18,10 +18,12 @@ profile_ftd.yml : define FTD device IP address and username / password needed to
 
 5_ : Display and save into a texte file all previously created service objects
 
-6_ : delete all previously created service objects
+6_ : Delete all previously created service objects
 
 7_ : Add new Access Policies to FTD device from small_access_list.csv file
 
-8_ : Display and save into a texte file all previously Access Policies
+8_ : Display and save into the access_policies.txt file all previously created Access Policies
 
-Every changes can be verified from FDM GUI# FDM_Managed_FTD_6.3_Device_Quick_Start
+9_ : Delete all access Policies from the access_policies.txt file
+
+Every changes can be verified from FDM GUI
